@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95130" started-at="2024-11-26T13:25:58Z" finished-at="2024-11-26T13:27:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95130" started-at="2024-11-26T13:25:58Z" finished-at="2024-11-26T13:27:33Z">
+      <class name="Fitpeo.Fitpeo.FitpeoTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="setUp" is-config="true" duration-ms="5911" started-at="2024-11-26T13:25:58Z" finished-at="2024-11-26T13:26:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToTheFitpeoHomePage()[pri:0, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="navigateToTheFitpeoHomePage" duration-ms="122" started-at="2024-11-26T13:26:03Z" finished-at="2024-11-26T13:26:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToTheFitpeoHomePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="tearDown" is-config="true" duration-ms="4868" started-at="2024-11-26T13:26:04Z" finished-at="2024-11-26T13:26:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="setUp" is-config="true" duration-ms="4915" started-at="2024-11-26T13:26:08Z" finished-at="2024-11-26T13:26:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToRevenueCalculatorPage()[pri:1, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="navigateToRevenueCalculatorPage" duration-ms="375" started-at="2024-11-26T13:26:13Z" finished-at="2024-11-26T13:26:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToRevenueCalculatorPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="tearDown" is-config="true" duration-ms="4768" started-at="2024-11-26T13:26:14Z" finished-at="2024-11-26T13:26:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="setUp" is-config="true" duration-ms="4986" started-at="2024-11-26T13:26:19Z" finished-at="2024-11-26T13:26:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="scrollToSliderSection()[pri:2, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="scrollToSliderSection" duration-ms="5420" started-at="2024-11-26T13:26:24Z" finished-at="2024-11-26T13:26:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollToSliderSection -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="tearDown" is-config="true" duration-ms="4892" started-at="2024-11-26T13:26:29Z" finished-at="2024-11-26T13:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="setUp" is-config="true" duration-ms="4038" started-at="2024-11-26T13:26:34Z" finished-at="2024-11-26T13:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="adjustSliderAndVerifsValue()[pri:3, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="adjustSliderAndVerifsValue" duration-ms="1313" started-at="2024-11-26T13:26:38Z" finished-at="2024-11-26T13:26:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adjustSliderAndVerifsValue -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="tearDown" is-config="true" duration-ms="4798" started-at="2024-11-26T13:26:39Z" finished-at="2024-11-26T13:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="setUp" is-config="true" duration-ms="4135" started-at="2024-11-26T13:26:44Z" finished-at="2024-11-26T13:26:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="adjustSliderUsingTextField()[pri:4, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="adjustSliderUsingTextField" duration-ms="17674" started-at="2024-11-26T13:26:48Z" finished-at="2024-11-26T13:27:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adjustSliderUsingTextField -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="tearDown" is-config="true" duration-ms="4845" started-at="2024-11-26T13:27:06Z" finished-at="2024-11-26T13:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="setUp" is-config="true" duration-ms="4209" started-at="2024-11-26T13:27:11Z" finished-at="2024-11-26T13:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectCPTCodesTest()[pri:5, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="selectCPTCodesTest" duration-ms="2153" started-at="2024-11-26T13:27:15Z" finished-at="2024-11-26T13:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCPTCodesTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="tearDown" is-config="true" duration-ms="4901" started-at="2024-11-26T13:27:17Z" finished-at="2024-11-26T13:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="setUp" is-config="true" duration-ms="3560" started-at="2024-11-26T13:27:22Z" finished-at="2024-11-26T13:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateTotalRecurringReimbursementTest()[pri:6, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="validateTotalRecurringReimbursementTest" duration-ms="2335" started-at="2024-11-26T13:27:25Z" finished-at="2024-11-26T13:27:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTotalRecurringReimbursementTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Fitpeo.Fitpeo.FitpeoTest@4678c730]" name="tearDown" is-config="true" duration-ms="4852" started-at="2024-11-26T13:27:28Z" finished-at="2024-11-26T13:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Fitpeo.Fitpeo.FitpeoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
